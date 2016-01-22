@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196fe</color>
+    <color name="colorPrimaryDark">#0074dc</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#aaaaaa</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#54c9ff</color>
+    <color name="tabsScrollColor">#ffffff</color>
+    <color name="whitebgcolor">#ffffff</color>
+    <color name="card_thumbnail_image_text_over_textcolor">#000</color>
+
+</resources>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Laptop2\thoughtwings\Project5.1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Laptop2\thoughtwings\Project5.1\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-078086d5aa4a002eb227e6a42d0fb469904fbdf9.jar" />
+    </item>
+    <item
+        jar="C:\Laptop2\thoughtwings\Cheherlock\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Laptop2\thoughtwings\Cheherlock\app\build\intermediates\pre-dexed\debug\classes-8f019ec8e4d8ac61bc57e1c724ece155db532d8e.jar" />
+    </item>
+    <item
+        jar="C:\Laptop2\thoughtwings\Project5.1\app\build\intermediates\exploded-aar\com.github.dexafree\materiallist\2.1.1\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="d708819aa49e707e1c780ffdb6b1f788826abcee">
+        <dex dex="C:\Laptop2\thoughtwings\Project5.1\app\build\intermediates\pre-dexed\debug\classes-aabb35925719700c196cfff1a7e34fc65c5d656d.jar" />
+    </item>
+    <item
+        jar="C:\Laptop2\thoughtwings\Project5.1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Laptop2\thoughtwings\Project5.1\app\build\intermediates\pre-dexed\debug\classes-8482788d5446432e0414fba216bebd3326f57332.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ravinder Nath Kamra\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Laptop2\thoughtwings\Project5.1\app\build\intermediates\pre-dexed\debug\library-2.4.0-a31115586e234cd6b5082683079b98a28789b05e.jar" />
+    </item>
+    <item
+        jar="C:\Laptop2\thoughtwings\Cheherlock\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Laptop2\thoughtwings\Cheherlock\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-32778378ebaaa22510385600e0e5f70ce28928bb.jar" />
+    </item>
+    <item
+        jar="C:\Laptop2\thoughtwings\Project5.1\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Laptop2\thoughtwings\Project5.1\app\build\intermediates\pre-dexed\debug\classes-bce6a026a119512b73a81decc6e2422a7467968d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ravinder Nath Kamra\.gradle\caches\modules-2\files-2.1\com.nhaarman.listviewanimations\lib-manipulation\3.1.0\63737e512fcd9e0ebe9bcd0bb375c2dded74116f\lib-manipulation-3.1.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="63737e512fcd9e0ebe9bcd0bb375c2dded74116f">
+        <dex dex="C:\Laptop2\thoughtwings\Project5.1\app\build\intermediates\pre-dexed\debug\lib-manipulation-3.1.0-ea0c5018579c07f670131ab5a63c43ff887687fa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ravinder Nath Kamra\.gradle\caches\modules-2\files-2.1\com.nhaarman.listviewanimations\lib-core\3.1.0\f3f9629b068554d8513a2aaf34418171bf430851\lib-core-3.1.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="f3f9629b068554d8513a2aaf34418171bf430851">
+        <dex dex="C:\Laptop2\thoughtwings\Project5.1\app\build\intermediates\pre-dexed\debug\lib-core-3.1.0-1ab72b1dfaa04b7fda0bea0acedfae5555f6953c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ravinder Nath Kamra\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Laptop2\thoughtwings\Project5.1\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-2253fda81f45e6f61d8dae409da8fc9d95a04503.jar" />
+    </item>
+    <item
+        jar="C:\Laptop2\thoughtwings\Cheherlock\app\build\intermediates\exploded-aar\com.etsy.android.grid\library\1.0.5\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="8218789edb56bdcfff7da48e892b37460fc707e2">
+        <dex dex="C:\Laptop2\thoughtwings\Cheherlock\app\build\intermediates\pre-dexed\debug\classes-fc2b1446ce442e84a1219d58d38933b7a9c3613b.jar" />
+    </item>
+    <item
+        jar="C:\Laptop2\thoughtwings\Project5.1\app\build\intermediates\exploded-aar\com.etsy.android.grid\library\1.0.5\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="8218789edb56bdcfff7da48e892b37460fc707e2">
+        <dex dex="C:\Laptop2\thoughtwings\Project5.1\app\build\intermediates\pre-dexed\debug\classes-48d611aa66c1d407eec4f4d67c7d556c87bc4061.jar" />
+    </item>
+    <item
+        jar="C:\Laptop2\thoughtwings\Project5.1\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="C:\Laptop2\thoughtwings\Project5.1\app\build\intermediates\pre-dexed\debug\classes-b689cd2c59b3e7a57abb3a9227bd3fc5f5c69e35.jar" />
+    </item>
+    <item
+        jar="C:\Laptop2\thoughtwings\Cheherlock\app\build\intermediates\exploded-aar\com.github.dexafree\materiallist\2.1.1\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="d708819aa49e707e1c780ffdb6b1f788826abcee">
+        <dex dex="C:\Laptop2\thoughtwings\Cheherlock\app\build\intermediates\pre-dexed\debug\classes-5a943d47c6827026119b33a69565f75ec109ce9b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ravinder Nath Kamra\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\java-sdk\2.3.0\f278e2e2523c1317c424a5245ca6f8f4d019446e\java-sdk-2.3.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="f278e2e2523c1317c424a5245ca6f8f4d019446e">
+        <dex dex="C:\Laptop2\thoughtwings\Cheherlock\app\build\intermediates\pre-dexed\debug\java-sdk-2.3.0-fc90f92acbe77c10a99e578c2b10cb9c9c0dc184.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ravinder Nath Kamra\.gradle\caches\modules-2\files-2.1\com.squareup\otto\1.3.5\7941cd2c2c8ec006800d75c35f8a9dacf892ab93\otto-1.3.5.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="7941cd2c2c8ec006800d75c35f8a9dacf892ab93">
+        <dex dex="C:\Laptop2\thoughtwings\Project5.1\app\build\intermediates\pre-dexed\debug\otto-1.3.5-f2e048f5476176cbdaab2030ed69d5a8579dc859.jar" />
+    </item>
+    <item
+        jar="C:\Laptop2\thoughtwings\Project5.1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Laptop2\thoughtwings\Project5.1\app\build\intermediates\pre-dexed\debug\classes-38535023dbf1ddb74ad5dfc26768048ab7fc73d6.jar" />
+    </item>
+    <item
+        jar="C:\Laptop2\thoughtwings\Project5.1\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="C:\Laptop2\thoughtwings\Project5.1\app\build\intermediates\pre-dexed\debug\classes-3cbb0da92e98baacd8227d670f2c0209e4d1da39.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ravinder Nath Kamra\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="C:\Laptop2\thoughtwings\Cheherlock\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0-a53ec390efef471dd4fb5894fd573f255b318cdb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ravinder Nath Kamra\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.3.2\90a3822c38ec8c996e84c16a3477ef632cbc87a3\commons-lang3-3.3.2.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="90a3822c38ec8c996e84c16a3477ef632cbc87a3">
+        <dex dex="C:\Laptop2\thoughtwings\Cheherlock\app\build\intermediates\pre-dexed\debug\commons-lang3-3.3.2-23ceac5a91776d4533a29cb5cd3550a6d4971bad.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ravinder Nath Kamra\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Laptop2\thoughtwings\Cheherlock\app\build\intermediates\pre-dexed\debug\gson-2.3.1-ef516f82dbbf9033493a7a40bbf8383e9a42bc7f.jar" />
+    </item>
+    <item
+        jar="C:\Laptop2\thoughtwings\Cheherlock\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="C:\Laptop2\thoughtwings\Cheherlock\app\build\intermediates\pre-dexed\debug\classes-6b2dea5492702b29956f4e57f7e0bb53c78b8d1b.jar" />
+    </item>
+    <item
+        jar="C:\Laptop2\thoughtwings\Cheherlock\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Laptop2\thoughtwings\Cheherlock\app\build\intermediates\pre-dexed\debug\classes-8d264734d3f536d705f923ef209b3ffceb74c60b.jar" />
+    </item>
+    <item
+        jar="C:\Laptop2\thoughtwings\Cheherlock\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="C:\Laptop2\thoughtwings\Cheherlock\app\build\intermediates\pre-dexed\debug\classes-ec4c1420548383fe3d2c56729090f1188a6f5d57.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ravinder Nath Kamra\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Laptop2\thoughtwings\Cheherlock\app\build\intermediates\pre-dexed\debug\okio-1.6.0-6d0f67e584346c47d9c274b4907f518d776bb05a.jar" />
+    </item>
+    <item
+        jar="C:\Laptop2\thoughtwings\Cheherlock\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Laptop2\thoughtwings\Cheherlock\app\build\intermediates\pre-dexed\debug\classes-d015e7c49887804998c64fd3f1923fbcdbcdc5d3.jar" />
+    </item>
+
+</items>
