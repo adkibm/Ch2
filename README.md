@@ -2,6 +2,8 @@
 # Cheherlock
 App for online verfication of Tenants and Maids.
 
+Demo Video Link : https://drive.google.com/file/d/0BxoUdajWBwEEZk1FZDdYTjZTY1E/view?usp=sharing
+
 The most important job of police verification of tenants and house maids is often ignored. 
 This app can simplify that process using IBM Watson Alchemy Vision API. This is just a small POC of the actual app that is to be built.
 
